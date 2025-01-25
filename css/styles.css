@@ -490,3 +490,7 @@ button {
   width: 24px;
   height: 24px;
 }
+
+.footer-icon-link:hover {
+  background-color: #31d0aa;
+}
