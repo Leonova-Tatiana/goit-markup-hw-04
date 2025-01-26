@@ -355,7 +355,8 @@ button {
 .team-icon-link:focus {
   background-color: #404bbf;
 }
-v .portfolio {
+
+.portfolio {
   padding: 120px 0;
 }
 
