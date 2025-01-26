@@ -437,7 +437,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding: 0 x16px 32px;
+  padding: 0px 16px 32px;
 }
 
 .footer {
